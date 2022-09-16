@@ -2,4 +2,5 @@
 * text=auto
 
 p5.collide2d.js linguist-vendored
+p5.sound.min.js linguist-vendored
 p5.js linguist-vendored
